@@ -46,7 +46,7 @@ Berikut adalah tampilan antarmuka aplikasi:
 
 ### Hasil Ekspor PDF
 
-![Screenshot PDF Ekspor](screenshots/hasipdf.png)
+![Screenshot PDF Ekspor](screenshots/hasilpdf.png)
 
 ## Kontribusi
 
